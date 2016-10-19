@@ -4,6 +4,6 @@
 class Alien: public Point2D
 {
   public:
-   Alien():Point2D(float x, float y);
+   Alien():Point2D(float x, float y); //wtf
 
 }
